@@ -10,3 +10,4 @@ soxr==0.3.7
 scipy==1.13.1
 scikit-learn==1.5.2
 joblib==1.4.2
+google-genai
